@@ -1,0 +1,14 @@
+.card {
+  width: 300px;
+  border: 1px solid #AAA;
+}
+
+/* .card-top {} */
+
+.card-bottom {
+  padding: 1rem 0.5rem;
+}
+
+.card-bottom h2 {
+  margin: 0;
+}
